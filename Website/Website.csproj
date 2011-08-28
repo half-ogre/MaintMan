@@ -88,6 +88,7 @@
     <Compile Include="RouteRegistrar.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content\example.png" />
     <Content Include="content\finding_1.png" />
     <Content Include="content\finding_2.png" />
     <Content Include="content\finding_2_small.png" />
